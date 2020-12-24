@@ -1,0 +1,9 @@
+Application Policy This application asks for the permission GET_ACCOUNTS. This 
+permission is used only to provide email address options when 
+logging into the application. This information: - not shareable with 
+partners - not publicized - not sold It is kept 
+internal to the application and never seen by third parties 
+or developers of the application. Older versions of the application 
+use the permission READ_PHONE_STATE. This permission was asked for, but 
+never used in the application, and is removed in version 
+1.0 of the application.

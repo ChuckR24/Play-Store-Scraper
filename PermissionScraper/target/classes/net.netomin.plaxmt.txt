@@ -1,0 +1,17 @@
+PLA Privacy rules Personal Library Assistant Home Licence Confidentiality PLAXMT 
+Changelog Language ? Privacy and Information Last Updated: Dec 12, 
+2015 Information Collected This application does not collect any 'personal 
+information': meaning any information that can be used on its 
+own or with other information to identify, contact, or locate 
+you. Nevertheless, in order to continually innovate and improve the 
+application, the PLA may automatically collect certain information from your 
+device and its software limited to: the device manufacturer the 
+device model the language of your device the android version 
+of your device the version number of the PLA software 
+This information is only used in order to improve user's 
+experience and won't be shared with any third parties. Changes 
+to This Policy We may change this Privacy Policy from 
+time to time if necessary. If we make any changes, 
+we will notify you by revising the "Last Updated" date 
+at the top of this Privacy Policy. Copyright (C) 2016 
+www.netomin.net

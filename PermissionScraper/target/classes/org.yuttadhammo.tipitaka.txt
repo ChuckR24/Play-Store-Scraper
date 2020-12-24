@@ -1,0 +1,8 @@
+Our software doesn't collect any information that we are aware 
+of; some information for all Android apps on your device 
+is sent to Google, and we have access to this 
+information for our apps - it looks like we have 
+information on crashes, etc. It doesn't seem like we have 
+access to any personal information through Google, but anyway, we 
+promise we wouldn't do anything with it even if we 
+did. Your privacy is safe from us :)

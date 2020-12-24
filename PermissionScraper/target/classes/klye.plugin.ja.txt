@@ -1,0 +1,17 @@
+Multiling O Keyboard for Android Home | Blog | Twitter 
+| Facebook | Google+ Privacy Policy Multiling O Keyboard respect 
+your privacy and will never collect your personal information. Multiling 
+O Keyboard does not have internet permission. Q. What is 
+the warning box during keyboard activation? Android pops up this 
+standard warning box for all 3rd party keyboards activation. You 
+can trust Multiling because Multiling does not have Internet permission, 
+so it can never send out any personal data or 
+key strokes without your knowledge. You do have to be 
+cautious about other keyboard apps that have Internet permission, since 
+every keyboard app is capable to collect your keystrokes. Q. 
+What permissions does Multiling need and why? Multiling needs to 
+access to: 1.READ USER DICTIONARY 2.WRITE USER DICTIONARY - To 
+let you define your own words and the app can 
+predict/auto-correct the words for you. 2.CONTROL VIBRATION - For haptic 
+feedback EULA (End User License Agreement) Please read this carefully 
+before using this software. Ads:

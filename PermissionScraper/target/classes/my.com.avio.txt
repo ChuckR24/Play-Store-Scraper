@@ -1,0 +1,24 @@
+Home Search this site NEWPAGES App Policy This policy will 
+explain the reason that the user need to provide permission 
+to the app for using particular functions. The following list 
+is shown that the user needs to grant permission to 
+our app in order to access certain features, User may 
+need to give permission on access of CAMERA The user 
+needs to catch a photo and upload it as reference 
+for product, photo, news and services before submitting these newly 
+information to server. Scan QR code for login personal Merchant 
+account without accessing for entering user name & password. DEVICE 
+INTERNAL STORAGE The user may need to choose the photo 
+from the device storage or any other external storage that 
+attached to device to upload it to product, photo and 
+etc. Hence, the permission is needed in order to access 
+the storage for app to take photo data from it. 
+LOCATION For showing the distance from the user's location to 
+the searched companies, the user needs to provide permission to 
+the app for calculating all these information. GET_ACCOUNT For ensuring 
+the push notification & promotional news can reach to the 
+user's mobile. ** For enabling these features, kindly following the 
+instruction below: Setting > Apps > Choosing NEWPAGES app > 
+Clicking "Permissions" to switch on the particular permissions that are 
+necessary > Quit Setting > Open NEWPAGES app Report abuse 
+Google Sites Report abuse

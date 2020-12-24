@@ -1,0 +1,10 @@
+Doc Scanner Privacy Policy Privacy Policy The following information applies 
+to Doc Scanner Android App. Data collection Doc Scanner collects 
+anonymous usage data by using Google Analytics and Crashlytics. Doc 
+Scanner does not share any information or the user data 
+provided to any third party companies or services. Required permissions 
+Doc Scanner requests following permissions on your device: CAMERA – 
+required to capture image of documents using device camera. READ 
+EXTERNAL STORAGE - this permission is required to read images 
+from external storage. WRITE EXTERNAL STORAGE - this permission is 
+required to write to external storage.
